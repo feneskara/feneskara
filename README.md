@@ -1,5 +1,5 @@
 
-### Hi there I'M Furkan Enes from Turkey 👋
+### Hi,  I'm Furkan from Turkey 👋
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kcaglarr&label=Profile%20views&color=0e75b6&style=flat" alt="feneskara" /> </p>
 
