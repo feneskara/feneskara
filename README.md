@@ -13,10 +13,6 @@
 <img align="left" alt="Matlab" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/667px-Matlab_Logo.png"/>
 
 
-
-
-
-/t
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=feneskara)](https://github.com/anuraghazra/github-readme-stats)
 
 
