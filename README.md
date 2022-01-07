@@ -14,7 +14,7 @@
 
 <img align="left" alt="JavaScript" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"/>
 
-<img src="https://mpng.subpng.com/20181113/auw/kisspng-swift-essentials-programming-language-macos-c-5beacfa60eed76.6565612515421152380612.jpg" alt="Python Logo" jsname="HiaYvf" jsaction="load:XAeZkd;" class="n3VNCb" data-noaft="1" style="width: 450px; height: 300px; margin: 63.15px 0px;">
+<img src="https://mpng.subpng.com/20181113/auw/kisspng-swift-essentials-programming-language-macos-c-5beacfa60eed76.6565612515421152380612.jpg" alt="Python Logo" jsname="HiaYvf" jsaction="load:XAeZkd;" class="n3VNCb" data-noaft="1" style="width: 40x; height: 40px; margin: 40px 0px;">
 
 <img align="left" alt="Matlab" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/667px-Matlab_Logo.png"/></div><br>
 <br>
