@@ -14,7 +14,7 @@
 
 <img align="left" alt="JavaScript" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"/>
 
-<img align="left" alt="Matlab" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/667px-Matlab_Logo.png"/>
+<img align="left" alt="Matlab" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/667px-Matlab_Logo.png"/></div>
   <div>
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=feneskara)](https://github.com/anuraghazra/github-readme-stats)
