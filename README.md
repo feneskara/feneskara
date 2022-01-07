@@ -1,12 +1,6 @@
 
 ### Hi there 👋
 
-
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=feneskara)](https://github.com/anuraghazra/github-readme-stats)
-
-[![andrey-lukyanenko StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=10996331)](https://stackoverflow.com/users/10996331/furkan-enes-kara)
-
 ### Languages and Tools:
 
 <img align="left" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"/>
@@ -16,6 +10,12 @@
 <img align="left" alt="Pytorch" width="40px" src="https://pytorch.org/assets/images/pytorch-logo.png"/>
 <img align="left" alt="JavaScript" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"/>
 <img align="left" alt="Matlab" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/667px-Matlab_Logo.png"/>
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=feneskara)](https://github.com/anuraghazra/github-readme-stats)
+
+[![andrey-lukyanenko StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=10996331)](https://stackoverflow.com/users/10996331/furkan-enes-kara)
+
+
 
 
 
