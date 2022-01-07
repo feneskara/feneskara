@@ -15,7 +15,8 @@
 <img align="left" alt="JavaScript" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"/>
 
 <img id="image" data-size="512" class="img-responsive"  width="40px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/swift_original_logo_icon_146332.png" title="Swift, original, logo Icon Free" alt="swift, original, logo Icon">
-<img align="left" alt="Matlab" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/667px-Matlab_Logo.png"/></div>
+<img align="left" alt="Matlab" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/667px-Matlab_Logo.png"/>
+<br>
 
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=feneskara)](https://github.com/anuraghazra/github-readme-stats)
