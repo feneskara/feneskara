@@ -11,7 +11,7 @@
 [<img align="left" alt="Pytorch" width="40px" src="https://pytorch.org/assets/images/pytorch-logo.png"/>][github]
 [<img align="left" alt="JavaScript" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"/>][github]
 [<img align="left" alt="Matlab" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/667px-Matlab_Logo.png"/>][github]
-[<img align="left" alt="Android" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg"/>][github]
+
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=feneskara)](https://github.com/anuraghazra/github-readme-stats)
 
