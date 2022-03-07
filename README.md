@@ -1,4 +1,4 @@
-
+[![](https://github.com/erenkulaksiz/erenkulaksiz/blob/master/dino.gif)](https://chromedino.com)
 
 ### Hi,  I'm Furkan from Turkey 👋
 
